@@ -1,0 +1,16 @@
+{
+  "conctacs": [
+    {
+      "name": "Samat",
+      "lastName": "Ibraimov",
+      "age": 22,
+      "id": 1
+    },
+    {
+      "name": "Samat",
+      "lastName": "Ibraimov",
+      "age": 22,
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+.list {
+    margin: 15px;
+}
+.contact {
+    border: 1px solid;
+    width: 20%;
+    margin: 10px;
+    list-style-type: none;
+    padding: 15px;
+}
+.btn-delete {
+    margin-left: 15px;
+}
+.btn-edit {
+    margin-left: 15px;
+}
